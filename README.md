@@ -22,7 +22,9 @@ JavaScript (ES6+): For interactivity, DOM manipulation, and dynamic 3D effects
 
 🛠️ Setup Instructions
 Clone the repository:
+
 Copy code
+
 https://github.com/E-beep-web/animation.git
 
 📜 License
