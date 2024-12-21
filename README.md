@@ -27,6 +27,12 @@ Copy code
 
 https://github.com/E-beep-web/animation.git
 
+Instructions to Use:
+
+Replace E-beep-web in the repository URL and GitHub link with your actual GitHub username.
+
+You can add further details or instructions if needed, such as how to add songs to the player or extend its features.
+
 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
